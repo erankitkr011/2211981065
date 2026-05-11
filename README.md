@@ -2,7 +2,7 @@
 
 **Type:** Copyright
 
-**Current Status:** In Progress
+**Current Status:** Completed
 
 ## Team Details
 
